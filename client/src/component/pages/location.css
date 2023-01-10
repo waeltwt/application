@@ -1,0 +1,23 @@
+tr, td {
+    padding-top: 100px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 40px;
+  border-spacing: 5px 1rem;
+  vertical-align: top;
+
+  
+}
+.aa{
+  height: 10rem;
+  
+}
+.dd{
+    
+  background: linear-gradient(135deg, orange 20%, cyan);
+    
+      
+  
+    
+  
+}

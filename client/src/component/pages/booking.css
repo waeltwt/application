@@ -1,0 +1,6 @@
+.gap_actions {
+    display: grid;
+    row-gap: 80px;
+    cursor: pointer;
+
+}
